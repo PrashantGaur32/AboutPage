@@ -1,2 +1,2 @@
 # AboutPage
-In this I make a about page using wpf.net .
+this is a about page using wpf.net .
